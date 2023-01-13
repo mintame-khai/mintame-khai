@@ -8,4 +8,5 @@
 mintame-khai/mintame-khai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[teample.csv](https://github.com/mintame-khai/mintame-khai/files/10379881/teample.csv)
+
+[comments_template.csv](https://github.com/mintame-khai/mintame-khai/files/10410361/comments_template.csv)
