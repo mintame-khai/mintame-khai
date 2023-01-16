@@ -10,5 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-[comments_template.csv](https://github.com/mintame-khai/mintame-khai/files/10423048/comments_template.csv)
+[comments_template.csv](https://github.com/mintame-khai/mintame-khai/files/10424782/comments_template.csv)
