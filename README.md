@@ -9,5 +9,5 @@ mintame-khai/mintame-khai is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+[comments_template.csv](https://github.com/mintame-khai/mintame-khai/files/10422638/comments_template.csv)
 
-[comments_template.csv](https://github.com/mintame-khai/mintame-khai/files/10422363/comments_template.csv)
